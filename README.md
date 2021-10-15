@@ -1,4 +1,4 @@
-# Portfolio webpage
+# Portfolio Webpage
 
 #### By Curtis Brooks
 
@@ -15,9 +15,7 @@ This webpage has links to each of Curtis Brooks's first coding projects at Epico
 
 ## Setup/Installation Requirements
 
-* Clone this repository to your desktop.
-* Navigate to the top level of the directory.
-* Open LINK HERE in your browser.
+* Open [this link]()in your browser.
 
 ## Known Bugs
 

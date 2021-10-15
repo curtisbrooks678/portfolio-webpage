@@ -26,6 +26,12 @@ h1 {
     padding: 10pt;
 }
 
+.worldwide {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-style: italic;
+}
+
 .about-me {
     width: 50%;
     padding: 10px;

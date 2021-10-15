@@ -15,7 +15,7 @@ This webpage has links to each of Curtis Brooks's first coding projects at Epico
 
 ## Setup/Installation Requirements
 
-* Open [this link]()in your browser.
+* Open [this link](https://curtisbrooks678.github.io/portfolio-webpage/)in your browser.
 
 ## Known Bugs
 

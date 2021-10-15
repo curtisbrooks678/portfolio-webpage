@@ -8,29 +8,31 @@ h1 {
 }
 
 .coding-projects {
-    width: 100%;
-    padding: 10px;
+    width: 90%;
+    padding: 30px;
     border: solid blueviolet;
     border-width: 5px;
     background-color: yellow;
     margin: auto;
     box-sizing: border-box;
-    display: block;
+    float: right;
 }
 
 .curtis-pic {
-    width: 70%;
+    width: 40%;
     height: auto;
     margin: auto;
-    display: block;
+    float: right;
+    padding: 10pt;
 }
 
 .about-me {
-    width: 35%;
-    padding: 50px;
+    width: 50%;
+    padding: 10px;
     border: solid black;
     border-width: 5px;
     background-color: orange;
     margin: 10px;
     box-sizing: border-box;
+    float: right;
 }
